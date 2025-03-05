@@ -1,0 +1,4 @@
+autoconf:
+  10XGenomics: /annogene/data2/bioinfo/SCV/Repositories/Pipeline/Stable/SinCell_10X/current/bin/Generate_pipeline/SinCell_10X_flow-line_autoConfig
+  Transcriptome: /annoroad/data1/bioinfo/PROJECT/Commercial/Cooperation/Public/Pipeline/Stable/RNA/Transcriptome_pipeline_238/current/bin/Transcriptome_flow-line_autoConfig
+  

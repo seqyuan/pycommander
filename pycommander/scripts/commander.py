@@ -28,7 +28,7 @@ def main():
 @click.option('--pipetype', '-t', default='scrna',
               help='pipeline type of the project')
 @click.option('--workdir', '-d', 
-              help='workdir, the dir should contain three dirs: info, Filter and Analysis')
+              help='workdir, the workdir should contain three dirs: info, Filter and Analysis')
 def addproject_cli(projectid, pipetype, workdir):
     addproject(projectid, pipetype, workdir)
 

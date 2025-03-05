@@ -1,0 +1,4 @@
+cronnode: bj-sci-login
+webhook:
+  phonenum: 15930709287
+  url: https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=d26e4b05-f59c-4d56-9c1d-d454fe027ce1000
